@@ -1,8 +1,16 @@
 {
   "name": "exon-bot",
   "version": "1.0.0",
+  "description": "Discord ekonomi botu",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "quick.db": "^9.0.0",
+    "better-sqlite3": "^9.0.0"
   }
 }
