@@ -1,8 +1,8 @@
 {
   "name": "exon-bot",
   "version": "1.0.0",
-  "main": "İndex.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node İndex.js"
+    "start": "node index.js"
   }
 }
