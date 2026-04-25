@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "main": "İndex.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node İndex.js"
   }
 }
