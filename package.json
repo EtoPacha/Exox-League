@@ -4,10 +4,5 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-  },
-  "dependencies": {
-    "discord.js": "^14.13.0",
-    "quick.db": "^9.0.0",
-    "better-sqlite3": "^8.0.0"
   }
 }
